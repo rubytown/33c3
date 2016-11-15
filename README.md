@@ -15,8 +15,11 @@ Register for our Assembly at the Congress
 https://events.ccc.de/congress/2016/wiki/Assembly:Rubytown It's a bit tricky: First, you have to create a profile in the wiki and say that you are member of the Rubytown Assembly. After confirming your profile, go back to the assembly page, click on the arrow right of the star and then click "Refresh". Now you should see you name in the member list.
 
 ##Buy your ticket
+https://tickets.events.ccc.de/33c3/
 
-https://events.ccc.de/2015/11/17/32c3-tickes-are-available-now/
+##Join the assembly Slack Channel
+We have a public 33c3 channel at the Rails Girls Berlin Slack. Just join to get in touch with all the rubyists:
+http://rails-girls-berlin.herokuapp.com/
 
 ##Who will come
 
