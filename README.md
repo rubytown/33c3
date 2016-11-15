@@ -1,6 +1,6 @@
 # 33c3
 
-The 32th Chaos Communication Congress from December 27th to 30th, 2016
+The 33th Chaos Communication Congress from December 27th to 30th, 2016
 
 Dear lovely Rubyists,
 
