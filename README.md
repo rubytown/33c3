@@ -8,7 +8,7 @@ after our first assembly at the Congress last year, we want to do that again <3
 
 We will collect all information here in this repo.
 
-More Infos about the 32th CCC: https://events.ccc.de/congress/2016/wiki/Main_Page
+More Infos about the 33rd CCC: https://events.ccc.de/congress/2016/wiki/Main_Page
 
 Register for our Assembly at the Congress
 
