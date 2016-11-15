@@ -45,12 +45,14 @@ https://github.com/rubytown/33c3/issues/5
 - [ ] Long network cables (>10m)
 - [ ] Network cables
 
+
 - [ ] Water boiler
 - [ ] Coffee maker aka Chemex
 - [ ] Grinder
 - [ ] Coffeeee (beans)
 - [ ] Coffee filters
 - [ ] A mug
+
 
 - [ ] Posters
 - [ ] Holiday lights
