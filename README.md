@@ -40,22 +40,22 @@ https://github.com/rubytown/33c3/issues/5
 
 ##Equipment that is needed
 
-- [ ] Powerplugs
-- [ ] Network switch
-- [ ] Long network cables (>10m)
-- [ ] Network cables
+- Infrastructure
+  - [ ] Powerplugs
+  - [ ] Network switch
+  - [ ] Long network cables (>10m)
+  - [ ] Network cables
+- Coffee
+  - [ ] Water boiler
+  - [ ] Coffee maker aka Chemex
+  - [ ] Grinder
+  - [ ] Coffeeee (beans)
+  - [ ] Coffee filters
+  - [ ] A mug
+- Decoration
+  - [ ] Posters
+  - [ ] Holiday lights
+  - [ ] Adhesive tape
+  - [ ] Scissor
 
-
-- [ ] Water boiler
-- [ ] Coffee maker aka Chemex
-- [ ] Grinder
-- [ ] Coffeeee (beans)
-- [ ] Coffee filters
-- [ ] A mug
-
-
-- [ ] Posters
-- [ ] Holiday lights
-- [ ] Adhesive tape
-- [ ] Scissor
-
+Feel free to add other items we need :)
