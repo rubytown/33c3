@@ -17,9 +17,10 @@ https://events.ccc.de/congress/2016/wiki/Assembly:Rubytown It's a bit tricky: Fi
 ##Buy your ticket
 https://tickets.events.ccc.de/33c3/
 
-##Join the assembly IRC
+##Join the assembly Slack Channel
 
-We have an irc channel on freenode called #rubytown. Connect with the client of your choice, [Riot.im](http://riot.im) or use this [webchat](https://webchat.freenode.net/).
+We have a public rubytown channel at the Rails Berlin e.V. Slack. Just join to get in touch with all the rubyists:
+http://slack.rubyberlin.org/
 
 ##Who will come
 
